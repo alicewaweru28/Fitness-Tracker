@@ -1,6 +1,5 @@
 # 18 NoSQL: Workout Tracker
 
-[![License: MIT](https://img.shields.io/github/license/CailinBellWold/Team-Profile-Generator?style=plastic)](https://opensource.org/licenses/MIT)
 
 ## Description 
 
@@ -73,11 +72,11 @@ From the modern browser of your choice, visit:
 
 ## Deployed App
 
-[This Workout Tracker app has been deployed on Heroku and is available here.](https://workout-tracker-cailin.herokuapp.com/)
+[This Workout Tracker app has been deployed on Heroku and is available here.](https://guarded-garden-72217.herokuapp.com/)
 
 ## Demo 
 
-LINK | [Workout Tracker demo](https://drive.google.com/file/d/1JexrrdKI0UNX8lTOkF5iQlBZVF_y31eR/view)
+LINK | [Workout Tracker demo]()
 
 View Homepage and add exercise to workout
 
@@ -85,11 +84,11 @@ View Homepage and add exercise to workout
 
 View data on Homepage and verify that it is populating the Dashboard
 
-![Workout Tracker Dashboard Populating.](/public/images/Workout-Tracker-Dashboard-Demo.gif)
+![Workout Tracker Dashboard Populating.]( ![0BD54997-99AF-4B3B-A2DB-452F6993687B_1_105_c](https://user-images.githubusercontent.com/80792502/129463924-15d88bc8-1415-41a3-979b-8fb83744976a.jpeg)
 
 ## MIT License
 
-&copy;2021 Cailin Bell Wold
+&copy;2021 Alice Waweru
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -110,4 +109,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Questions
-For inquiries, please contact [Cailin Bell Wold](https://github.com/CailinBellWold).
+For inquiries, please contact [Cailin Bell Wold](https://github.com/alicewaweru28).
