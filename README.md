@@ -76,15 +76,8 @@ From the modern browser of your choice, visit:
 
 ## Demo 
 
+![256B6C93-F9B8-4CD3-9591-0594AA70C34C_1_105_c](https://user-images.githubusercontent.com/80792502/129464919-e7aca294-2d96-47e9-b915-4b032520bbd6.jpeg)
 
-View Homepage and add exercise to workout
-
-![Workout Tracker Add Exercise to Workout.](![0BD54997-99AF-4B3B-A2DB-452F6993687B_1_105_c](https://user-images.githubusercontent.com/80792502/129463924-15d88bc8-1415-41a3-979b-8fb83744976a.jpe)
-
-View data on Homepage and verify that it is populating the Dashboard
-
-![Workout Tracker Dashboard Populating.]( ![256B6C93-F9B8-4CD3-9591-0594AA70C34C_1_105_c](https://user-images.githubusercontent.com/80792502/129464675-db3a9578-4195-42ce-afa3-d60415b772ab.jpeg)
-)
 
 ## MIT License
 
