@@ -109,4 +109,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Questions
-For inquiries, please contact [Cailin Bell Wold](https://github.com/alicewaweru28).
+For inquiries, please contact [Alice Waweru](https://github.com/alicewaweru28).
